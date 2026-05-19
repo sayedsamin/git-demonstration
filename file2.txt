@@ -2,3 +2,6 @@ This is from file2.txt
 This is my first sentence.
 
 // TThis task is for alex, add more sentences to this file.
+
+THis is the next file, file2.txt, which has not been edited recently.
+More changes have been added to this file by alex on 2024-06-01. He added the following sentences:
