@@ -1,1 +1,1 @@
-fsbdkjf
+This is the next file, file3.txt, which has not been edited recently.
